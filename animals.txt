@@ -1,4 +1,5 @@
-lion
-tiger
+yellow lion
+red tiger
 leopard
-turtle
+black and white panda
+green turtle
